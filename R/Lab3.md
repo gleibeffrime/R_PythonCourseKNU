@@ -44,7 +44,7 @@ my_ifelse <- function(x, exp, n) {
  [1] 10 11 12 13 14 15 16 17 18 19 20
  print(my_ifelse(v, '==', n))
 [1] 10
- print(my_ifelse(v, 'hoho', n))
+ print(my_ifelse(v, 'asdasd', n))
  [1]  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20
 ```
 ### Task 4
